@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Alarm Project</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="add_reminder">Remind me to ...</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Repetition frequency</string>
+    <string name="rate">Rate this app</string>
+    <string name="details">Reminder details</string>
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="no_reminders">Click on the plus button below to begin creating your reminders!</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
